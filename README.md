@@ -1,6 +1,6 @@
 # MCQ-Generation
 
-This project aims to automatically generate multiple-choice questions (MCQs) using two different processes: the first process involves question generation, question answering, and distractor generation using specific models, while the second process utilizes Large Language Models (LLaMA v1) for MCQ generation.
+This project aims to automatically generate multiple-choice questions (MCQs) using two different processes.
 
 ## First Process
 
